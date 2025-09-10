@@ -14,8 +14,7 @@
 </div>
 
 <div align="center">
-    <img width="355px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Fanka&layout=compact&theme=github_dark"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Erick-Fanka&theme=github_dark&hide_rank=true"/>
+        https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erick-Fanka&theme=react)
 </div>
 
 
