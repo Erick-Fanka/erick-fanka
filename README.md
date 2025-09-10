@@ -1,4 +1,4 @@
-## Hi there 👋
+![Estatísticas do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erick-Fanka&theme=react)
 
 <!--
 **Erick-Fanka/erick-fanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
