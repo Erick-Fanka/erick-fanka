@@ -1,8 +1,8 @@
 
 
-# Olá! 👋
-- 🙋🏻‍♂️ Me chamo Erick Fanka e sou um apaixonado por tecnologia.
-- 👨🏻‍💻 Atualmente, meus estudos e projetos estão focados em Redes e Cloud Computing, com ênfase em Amazon Web Services (AWS).
+# Olá, seja bem-vindo(a) ao meu perfil! 👋
+- 🙋🏻‍♂️ Me chamo Erick Fanka.
+- 👨🏻‍💻 Sou um profissional com foco em Redes e Cloud Computing, com ênfase em Amazon Web Services (AWS).
 - 🎯 Desenvolvo soluções usando shell script, automação e arquitetura de sistemas em nuvem.
 
 <div align="center" style="display: inline_block">
