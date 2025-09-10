@@ -1,11 +1,10 @@
 
 
 
-# Olá, seja bem-vind@ ao meu perfil!😊
-
-- 🙋🏻‍♂️ Me chamo Erick e sou um entusiasta pela tecnologia da informação.
-- 🎯 Meus estudos estão direcionados para área de Redes e Computação em nuvem.
-- 👨🏻‍💻 Desenvolvo projetos usando Packet Tracer, shell script e arquitetando soluções na Amazon Web Services (AWS).
+# Olá, seja bem-vindo(a) ao meu perfil! 👋
+- 🙋🏻‍♂️ Me chamo Erick Fanka e sou um apaixonado por tecnologia.
+- 👨🏻‍💻 Atualmente, meus estudos e projetos estão focados em Redes e Cloud Computing, com ênfase em Amazon Web Services (AWS).
+- 🎯 Desenvolvo soluções usando shell script, automação e arquitetura de sistemas em nuvem.
 
 <div align="center" style="display: inline_block">
     <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"/>
