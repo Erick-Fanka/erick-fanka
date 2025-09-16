@@ -10,6 +10,7 @@
     <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"/>
     <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"/>
     <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
+    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"/>  
 </div>
 
 <div align="center">
