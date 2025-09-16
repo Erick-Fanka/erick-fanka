@@ -6,11 +6,11 @@
 - 🎯 Desenvolvo soluções usando shell script, automação e arquitetura de sistemas em nuvem.
 
 <div align="center" style="display: inline_block">
-    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"/>
-    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"/>
-    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"/>
-    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
-    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"/>  
+    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"/>
+    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"/>
+    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"/>
+    <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
+    <img width="50px" style="margin-left: 10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"/>  
 </div>
 
 <div align="center">
