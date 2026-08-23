@@ -16,16 +16,22 @@
 
 ---
 
-Técnico em Redes de Computadores pelo SENAI Porto Alegre, com trajetória construída em cima de laboratórios práticos, um homelab próprio e competições nacionais e internacionais de tecnologia.
+<p align="center">
+  Técnico em Redes de Computadores pelo SENAI Porto Alegre, com trajetória construída em cima de laboratórios práticos, um homelab próprio e competições nacionais e internacionais de tecnologia.
+</p>
 
 ## 🏆 Trajetória em competições
 
-  | Competição | Categoria |
-  |---|---|---|
-  | WorldSkills Shanghai 2026 | Intelligent Security Technology | 
-  | Frindely Competition (Shanghai) | Intelligent Security Technology | 
-  | WorldSkills Nacional | Cloud Computing | 
-  | WorldSkills Rio Grande do Sul | Cloud Computing | 
+<div align="center">
+
+| Competição | Categoria | Resultado |
+|:---:|:---:|:---:|
+| WorldSkills Shanghai 2026 | Intelligent Security Technology | Representante do Brasil |
+| WorldSkills (etapa anterior) | Intelligent Security Technology | 2º lugar internacional |
+| WorldSkills Nacional | Cloud Computing | Classificado |
+| WorldSkills Rio Grande do Sul | Cloud Computing | Representante estadual |
+
+</div>
 
 ## ⚙️ O que eu construo
 
