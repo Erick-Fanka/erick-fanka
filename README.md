@@ -15,7 +15,13 @@
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
+ </p>
+ <p align="center">
+  <a href="https://github.com/Erick-Fanka"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/erick-fanka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" alt="E-mail" /></a>
+   </p>
+ </p>
 
 ---
 
@@ -46,16 +52,4 @@ Laboratórios AWS Academy cobrindo VPC peering, load balancers, Transit Gateway,
 **Redes & Automação**
 Estudos de CCNA-2 documentados no repositório [`networkzone`](https://github.com/Erick-Fanka/networkzone) e um laboratório de automação de SNMP traps usando um switch HPE OfficeConnect 1920 com Netmiko e snmptrapd.
 
-<img src="https://img.icons8.com/fluency/28/combo-chart.png" width="24" align="center"/> GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erick-Fanka&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erick-Fanka&hide_border=true" width="48%" />
-</p>
-
-<img src="https://img.icons8.com/fluency/28/new-post.png" width="24" align="center"/> Contato
-
-- GitHub: <a href="https://github.com/Erick-Fanka"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-- Linkedin: <a href="https://www.linkedin.com/in/erick-fanka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
-- E-mail: <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" alt="E-mail" /></a>
 <p align="center"><i>Aberto a oportunidades na área de TI</i></p>
