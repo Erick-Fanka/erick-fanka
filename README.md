@@ -22,10 +22,10 @@ Técnico em Redes de Computadores pelo SENAI Porto Alegre, com trajetória const
 
   | Competição | Categoria |
   |---|---|---|
-  | WorldSkills Shanghai 2026 | Intelligent Security Technology |
-  | Frindely Competition (Shanghai) | Intelligent Security Technology |
-  | WorldSkills Nacional | Cloud Computing |
-  | WorldSkills Rio Grande do Sul | Cloud Computing |
+  | WorldSkills Shanghai 2026 | Intelligent Security Technology | 
+  | Frindely Competition (Shanghai) | Intelligent Security Technology | 
+  | WorldSkills Nacional | Cloud Computing | 
+  | WorldSkills Rio Grande do Sul | Cloud Computing | 
 
 ## ⚙️ O que eu construo
 
