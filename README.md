@@ -20,8 +20,7 @@
   Técnico em Redes de Computadores pelo SENAI Porto Alegre, com trajetória construída em cima de laboratórios práticos, um homelab próprio e competições nacionais e internacionais de tecnologia.
 </p>
 
-## 🏆 Trajetória em competições
-
+<img src="https://img.icons8.com/fluency/28/trophy.png" width="24" align="center"/> Trajetória em competições
 <div align="center">
 
 | Competição | Categoria |
@@ -33,7 +32,7 @@
 
 </div>
 
-## ⚙️ O que eu construo
+<img src="https://img.icons8.com/fluency/28/settings.png" width="24" align="center"/> O que eu construo
 
 **Infraestrutura & Homelab**
 Cluster Proxmox HA (Corosync, Pacemaker, QDevice, VIP flutuante) rodando em servidores Dell PowerEdge T420, com pools ZFS, Active Directory, acesso remoto via ZeroTier e uma stack de mídia self-hosted (Jellyfin, Radarr, Sonarr, Prowlarr) em LXC.
@@ -44,16 +43,17 @@ Laboratórios AWS Academy cobrindo VPC peering, load balancers, Transit Gateway,
 **Redes & Automação**
 Estudos de CCNA-2 documentados no repositório [`networkzone`](https://github.com/Erick-Fanka/networkzone) e um laboratório de automação de SNMP traps usando um switch HPE OfficeConnect 1920 com Netmiko e snmptrapd.
 
-## 📊 GitHub
+<img src="https://img.icons8.com/fluency/28/combo-chart.png" width="24" align="center"/> GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Erick-Fanka&show_icons=true&theme=default&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erick-Fanka&hide_border=true" width="48%" />
 </p>
 
-## 📫 Contato
+<img src="https://img.icons8.com/fluency/28/new-post.png" width="24" align="center"/> Contato
 
 - GitHub: [@Erick-Fanka](https://github.com/Erick-Fanka)
 - Linkedin: [@Erick da Cruz Fanka](https://www.linkedin.com/in/erick-fanka/)
+- Email: (erickfanka@gmail.com)
 
 <p align="center"><i>Aberto a oportunidades na área de TI</i></p>
