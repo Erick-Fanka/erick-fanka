@@ -1,45 +1,66 @@
-<h1 align="center">Olá! 👋 Sou o Erick Fanka</h1>
-<h3 align="center">Cloud Computing | Redes | Automação na AWS</h3>
+<h1 align="center">Erick Fanka</h1>
+<h3 align="center">Redes & Cloud Computing | AWS | Automação</h3>
 
 <p align="center">
-  <em>Transformando infraestrutura complexa em soluções eficientes, escaláveis e automatizadas.</em>
+  Representante do Brasil na <b>WorldSkills Shanghai 2026</b> — Intelligent Security Technology
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/deploy_br">
+    <img src="https://img.shields.io/badge/DeployBR-Conteúdo_Tech-black?style=flat-square&logo=youtube&logoColor=red" />
+  </a>
 </p>
 
 ---
 
-## 👨🏻‍💻 Sobre Mim
+## 🧭 Sobre mim
 
-* ☁️ **Foco Principal:** Arquitetura de sistemas em nuvem e Redes, com ênfase máxima em Amazon Web Services (AWS).
-* ⚙️ **O que eu faço:** Desenvolvo soluções e otimizo ambientes utilizando Shell Script e automação.
-* 🚀 **Objetivo:** Implementar infraestruturas resilientes, seguras e de alta performance.
+Sou técnico em Redes de Computadores pelo SENAI Porto Alegre, com trajetória construída em cima de laboratórios práticos, um homelab próprio e competições nacionais e internacionais de tecnologia. Meu caminho até a TI passou por um pivô de carreira — antes de entrar na área, trabalhei na construção civil — e hoje me dedico integralmente a redes, cloud e automação.
 
----
+Além de estudar e competir, produzo conteúdo sobre tecnologia no **DeployBR**, um canal voltado ao público tech brasileiro.
 
-## 🛠️ Stack Tecnológico
+## 🏆 Trajetória em competições
 
-| Cloud & Infraestrutura | Containers & SO | Banco de Dados & Código |
-| :---: | :---: | :---: |
-| <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="AWS"/> | <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker"/> | <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python"/> |
-| <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux"/> | <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="Bash/Shell"/> | <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL"/> |
+| Competição | Categoria | Resultado |
+|---|---|---|
+| WorldSkills Shanghai 2026 | Intelligent Security Technology | Representante do Brasil |
+| WorldSkills (etapa anterior) | Intelligent Security Technology | 2º lugar internacional |
+| WorldSkills Nacional | Cloud Computing | Classificado |
+| WorldSkills Rio Grande do Sul | Cloud Computing | Representante estadual |
 
----
+## ⚙️ O que eu construo
 
-## 📊 Analytics do GitHub
+**Infraestrutura & Homelab**
+Cluster Proxmox HA (Corosync, Pacemaker, QDevice, VIP flutuante) rodando em servidores Dell PowerEdge T420, com pools ZFS, Active Directory, acesso remoto via ZeroTier e uma stack de mídia self-hosted (Jellyfin, Radarr, Sonarr, Prowlarr) em LXC.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-Fanka&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erick-Fanka&theme=react"/>
-</div>
+**Cloud & AWS**
+Laboratórios AWS Academy cobrindo VPC peering, load balancers, Transit Gateway, Route 53, CloudWatch, S3 e uma topologia hub-and-spoke com AWS Network Firewall — incluindo uma demo de detecção de SSH brute force via CloudFormation.
 
----
+**Redes & Automação**
+Estudos de CCNA-2 documentados no repositório [`networkzone`](https://github.com/Erick-Fanka/networkzone) e um laboratório de automação de SNMP traps usando um switch HPE OfficeConnect 1920 com Netmiko e snmptrapd.
 
-## 📫 Vamos nos conectar?
+**Ambiente de trabalho**
+Estação Linux com Arch + Hyprland (Caelestia Shell, fish shell, wallust), depois de anos ajustando Pop!_OS/GNOME — sempre em busca de um setup mais eficiente e personalizado.
 
-<div align="center">
-  <a href="mailto:SEU_EMAIL_AQUI">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="LINK_DO_SEU_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Erick-Fanka&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erick-Fanka&hide_border=true" width="48%" />
+</p>
+
+## 📫 Contato
+
+- GitHub: [@Erick-Fanka](https://github.com/Erick-Fanka)
+- DeployBR: [@deploy_br](https://github.com/deploy_br)
+
+<p align="center"><i>Aberto a oportunidades em Service Desk, Suporte de TI e infraestrutura em nuvem.</i></p>
