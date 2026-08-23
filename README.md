@@ -47,21 +47,19 @@
 
 ### ⚙️ O que eu construo
 
-* **Infraestrutura & Homelab:** Cluster Proxmox HA (Corosync, Pacemaker, QDevice, VIP flutuante) rodando em servidores Dell PowerEdge T420, com pools ZFS, Active Directory, acesso remoto via ZeroTier e uma stack de mídia self-hosted (Jellyfin, Radarr, Sonarr, Prowlarr) em LXC.
-* **Cloud & AWS:** Laboratórios AWS Academy cobrindo VPC peering, load balancers, Transit Gateway, Route 53, CloudWatch, S3 e uma topologia hub-and-spoke com AWS Network Firewall — incluindo uma demo de detecção de SSH brute force via CloudFormation.
-* **Redes & Automação:** Estudos de CCNA-2 documentados no repositório `networkzone` e um laboratório de automação de SNMP traps usando um switch HPE OfficeConnect 1920 com Netmiko e snmptrapd.
+* **Infraestrutura & Homelab:** Cluster Proxmox HA em servidores Dell PowerEdge T420, com ZFS, Active Directory e stack de mídia self-hosted.
+* **Cloud & AWS:** Laboratórios AWS Academy — VPC, load balancers, Transit Gateway, Route 53, CloudWatch, S3 e segurança de rede com AWS Network Firewall.
+* **Redes & Automação:** Estudos de CCNA-2 e automação de SNMP traps com Netmiko e snmptrapd.
 
 ---
 
 ### 📊 GitHub Stats
 
-
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erick-fanka/erick-fanka/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erick-fanka/erick-fanka/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erick-fanka/erick-fanka/output/github-contribution-grid-snake.svg">
 </picture>
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Aberto%20a%20oportunidades%20na%20área%20de%20TI-success?style=for-the-badge" />
