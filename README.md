@@ -45,14 +45,6 @@
 
 ---
 
-### ⚙️ O que eu construo
-
-* **Infraestrutura & Homelab:** Cluster Proxmox HA em servidores Dell PowerEdge T420, com ZFS, Active Directory e stack de mídia self-hosted.
-* **Cloud & AWS:** Laboratórios AWS Academy — VPC, load balancers, Transit Gateway, Route 53, CloudWatch, S3 e segurança de rede com AWS Network Firewall.
-* **Redes & Automação:** Estudos de CCNA-2 e automação de SNMP traps com Netmiko e snmptrapd.
-
----
-
 ### 📊 GitHub Stats
 
 <picture align="center">
