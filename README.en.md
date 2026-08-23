@@ -3,7 +3,6 @@
 </div>
 
 <h1 align="center">Erick Fanka</h1>
-<h3 align="center">Networking & Cloud Computing | AWS | Python</h3>
 
 <p align="center">
   Representing Brazil at <b>WorldSkills Shanghai 2026</b> — Intelligent Security Technology
