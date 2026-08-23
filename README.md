@@ -22,20 +22,16 @@
 
 ---
 
-## 🧭 Sobre mim
-
-Sou técnico em Redes de Computadores pelo SENAI Porto Alegre, com trajetória construída em cima de laboratórios práticos, um homelab próprio e competições nacionais e internacionais de tecnologia. Meu caminho até a TI passou por um pivô de carreira — antes de entrar na área, trabalhei na construção civil — e hoje me dedico integralmente a redes, cloud e automação.
-
-Além de estudar e competir, produzo conteúdo sobre tecnologia no **DeployBR**, um canal voltado ao público tech brasileiro.
+Técnico em Redes de Computadores pelo SENAI Porto Alegre, com trajetória construída em cima de laboratórios práticos, um homelab próprio e competições nacionais e internacionais de tecnologia.
 
 ## 🏆 Trajetória em competições
 
-| Competição | Categoria | Resultado |
-|---|---|---|
-| WorldSkills Shanghai 2026 | Intelligent Security Technology | Representante do Brasil |
-| WorldSkills (etapa anterior) | Intelligent Security Technology | 2º lugar internacional |
-| WorldSkills Nacional | Cloud Computing | Classificado |
-| WorldSkills Rio Grande do Sul | Cloud Computing | Representante estadual |
+  | Competição | Categoria | Resultado |
+  |---|---|---|
+  | WorldSkills Shanghai 2026 | Intelligent Security Technology | Representante do Brasil |
+  | WorldSkills (etapa anterior) | Intelligent Security Technology | 2º lugar internacional |
+  | WorldSkills Nacional | Cloud Computing | Classificado |
+  | WorldSkills Rio Grande do Sul | Cloud Computing | Representante estadual |
 
 ## ⚙️ O que eu construo
 
@@ -48,9 +44,6 @@ Laboratórios AWS Academy cobrindo VPC peering, load balancers, Transit Gateway,
 **Redes & Automação**
 Estudos de CCNA-2 documentados no repositório [`networkzone`](https://github.com/Erick-Fanka/networkzone) e um laboratório de automação de SNMP traps usando um switch HPE OfficeConnect 1920 com Netmiko e snmptrapd.
 
-**Ambiente de trabalho**
-Estação Linux com Arch + Hyprland (Caelestia Shell, fish shell, wallust), depois de anos ajustando Pop!_OS/GNOME — sempre em busca de um setup mais eficiente e personalizado.
-
 ## 📊 GitHub
 
 <p align="center">
@@ -61,6 +54,6 @@ Estação Linux com Arch + Hyprland (Caelestia Shell, fish shell, wallust), depo
 ## 📫 Contato
 
 - GitHub: [@Erick-Fanka](https://github.com/Erick-Fanka)
-- DeployBR: [@deploy_br](https://github.com/deploy_br)
+- Linkedin: [@Erick da Cruz Fanka](https://www.linkedin.com/in/erick-fanka/)
 
-<p align="center"><i>Aberto a oportunidades em Service Desk, Suporte de TI e infraestrutura em nuvem.</i></p>
+<p align="center"><i>Aberto a oportunidades na área de TI</i></p>
