@@ -1,5 +1,5 @@
 <h1 align="center">Erick Fanka</h1>
-<h3 align="center">Redes & Cloud Computing | AWS | Automação</h3>
+<h3 align="center">Redes & Cloud Computing | AWS | Python</h3>
 
 <p align="center">
   Representante do Brasil na <b>WorldSkills Shanghai 2026</b> — Intelligent Security Technology
@@ -12,12 +12,6 @@
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/deploy_br">
-    <img src="https://img.shields.io/badge/DeployBR-Conteúdo_Tech-black?style=flat-square&logo=youtube&logoColor=red" />
-  </a>
 </p>
 
 ---
