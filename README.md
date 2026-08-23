@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+</div>
 <h1 align="center">Erick Fanka</h1>
 <h3 align="center">Redes & Cloud Computing | AWS | Python</h3>
 
