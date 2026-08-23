@@ -20,12 +20,12 @@ Técnico em Redes de Computadores pelo SENAI Porto Alegre, com trajetória const
 
 ## 🏆 Trajetória em competições
 
-  | Competição | Categoria | Resultado |
+  | Competição | Categoria |
   |---|---|---|
-  | WorldSkills Shanghai 2026 | Intelligent Security Technology | Representante do Brasil |
-  | WorldSkills (etapa anterior) | Intelligent Security Technology | 2º lugar internacional |
-  | WorldSkills Nacional | Cloud Computing | Classificado |
-  | WorldSkills Rio Grande do Sul | Cloud Computing | Representante estadual |
+  | WorldSkills Shanghai 2026 | Intelligent Security Technology |
+  | Frindely Competition (Shanghai) | Intelligent Security Technology |
+  | WorldSkills Nacional | Cloud Computing |
+  | WorldSkills Rio Grande do Sul | Cloud Computing |
 
 ## ⚙️ O que eu construo
 
