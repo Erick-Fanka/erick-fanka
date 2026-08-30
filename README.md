@@ -38,10 +38,9 @@
 
 ### 🏆 Trajetória em competições
 
-* **WorldSkills Shanghai 2026** — Intelligent Security Technology
-* **Friendly Competition (Shanghai)** — Intelligent Security Technology
-* **WorldSkills Nacional** — Cloud Computing
-* **WorldSkills Rio Grande do Sul** — Cloud Computing
+* **WorldSkills Shanghai 2026** — Intelligent Security Technology (2026)
+* **Friendly Competition (Shanghai)** — Intelligent Security Technology (2025)
+* **WorldSkills Nacional** — Cloud Computing (2025)
 
 ---
 
