@@ -47,18 +47,6 @@
 
 ---
 
-### 🎖️ Certificações e badges
-
-<p align="center">
-  <a href="https://www.credly.com/users/erick-fanka" target="_blank"><img src="./assets/certificacoes.svg" alt="Carrossel de certificações e badges do Credly: AWS Certified Cloud Practitioner, AWS Application Networking Demonstrated, AWS Cloud Quest: Networking, AWS Cloud Quest: Cloud Practitioner e WorldSkills Shanghai 2026" width="100%" /></a>
-</p>
-
-<p align="right">
-  <a href="https://www.credly.com/users/erick-fanka" target="_blank"><code>$ open credly.com/users/erick-fanka</code> ↗</a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <picture align="center">
