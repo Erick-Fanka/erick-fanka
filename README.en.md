@@ -48,11 +48,23 @@
 
 ---
 
+### 🎖️ Certifications & Badges
+
+<p align="center">
+  <a href="https://www.credly.com/users/erick-fanka" target="_blank"><img src="./assets/certifications.svg" alt="Carousel of Credly certifications and badges: AWS Certified Cloud Practitioner, AWS Application Networking Demonstrated, AWS Cloud Quest: Networking, AWS Cloud Quest: Cloud Practitioner and WorldSkills Shanghai 2026" width="100%" /></a>
+</p>
+
+<p align="right">
+  <a href="https://www.credly.com/users/erick-fanka" target="_blank"><code>$ open credly.com/users/erick-fanka</code> ↗</a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erick-fanka/erick-fanka/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erick-fanka/erick-fanka/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erick-fanka/erick-fanka/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erick-fanka/erick-fanka/output/github-contribution-grid-snake.svg">
 </picture>
 
